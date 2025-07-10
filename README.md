@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**jdanjohnson/jdanjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Creative Technologist by day ⚡ and a serial tinkerer by night 🌙
 
-Here are some ideas to get you started:
+Serial Tinkerer & Connector of People; Building bridges between technology and humanity;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I tinker with: `.js`, `.ts`, `.py`, `.html`, `.css`, `.md`, `.json`, `.yaml`, `.go`, `.sql`
+- 🌍 I'm actively building and nurturing tech communities
+- 🔗 Connecting: developers, creators, innovators, and dreamers across the globe
+- 💡 Building: tools that matter, experiences that inspire, connections that last
+- 🚀 Currently working on: community platforms, developer tools, and creative tech solutions
+- 🎯 Passionate about: open source, hackathons, mentorship, and inclusive tech spaces
+- 💬 `ping` me about **creative technology**, **community building**, **innovative projects**, **collaboration opportunities**
+
+---
